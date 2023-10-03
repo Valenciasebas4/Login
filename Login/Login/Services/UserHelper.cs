@@ -6,7 +6,7 @@ using Login.DAL.Entities;
 using Login.Helpers;
 using Login.Models;
 
-namespace WashingCar.Services
+namespace Login.Services
 {
     public class UserHelper : IUserHelper
     {
